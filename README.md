@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JAEspiño.
 - 👀 I’m interested in financial markets theory and computer science, especially, in numerical simulations and data science.
-- 🌱 I’m currently learning numerical methods due to the Master in Industrial Mathematics (M2i-UVigo) I am currently studying. Furthermore, the 'Google IT Automation with Python' specialization caught my eye and I have started it to improve my python skills, and that is the very reason why I started using Github.
+- 🌱 
 - 💞️ I’m looking to collaborate on real data science projects, simulations in most areas, including financial simulations, and excited to dip my toe in some automation project.
 - 📫 How to reach me: You can reach me in my Linkedin profile, feel free to send a message whatever the purpouse! I'm looking forward to making contacts and collaborating in the areas described earlier: https://www.linkedin.com/in/jorge-%C3%A1lvarez-espi%C3%B1o-797a941a8
 
